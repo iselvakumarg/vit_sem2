@@ -19,3 +19,4 @@ def gcd(a, b):
 lcm = (a * b) / gcd(a, b)
 
 print(lcm)
+print(gcd(a, b))
