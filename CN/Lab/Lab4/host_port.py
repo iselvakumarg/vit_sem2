@@ -1,0 +1,2 @@
+HOSTNAME = 'localhost'
+PORTNUMBER = 1459
